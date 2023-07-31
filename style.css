@@ -1,0 +1,16 @@
+.copy_right_footer
+{
+    position: fixed;
+    color: blue;
+    bottom: 0;
+    width: 100%;
+    background-color: yellow;
+    line-height: 4;
+    text-align: center;
+}
+canvas
+{
+    border: 8px solid white;
+    border-radius: 50px;
+    box-shadow: 9px 9px 9px darkslategray;
+}
